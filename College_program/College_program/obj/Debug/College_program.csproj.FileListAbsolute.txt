@@ -1,0 +1,8 @@
+C:\CODE\College_program\College_program\obj\Debug\College_program.csproj.AssemblyReference.cache
+C:\CODE\College_program\College_program\obj\Debug\College_program.csproj.SuggestedBindingRedirects.cache
+C:\CODE\College_program\College_program\obj\Debug\College_program.csproj.CoreCompileInputs.cache
+C:\CODE\College_program\College_program\bin\Debug\College_program.exe.config
+C:\CODE\College_program\College_program\bin\Debug\College_program.exe
+C:\CODE\College_program\College_program\bin\Debug\College_program.pdb
+C:\CODE\College_program\College_program\obj\Debug\College_program.exe
+C:\CODE\College_program\College_program\obj\Debug\College_program.pdb
